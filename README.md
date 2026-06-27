@@ -30,12 +30,6 @@ working with:  computer vision models and visual reasoning pipelines
 
 `reinforcement learning` · `computer vision` · `sql` · `data systems` · `optimization` · `python`
 
-### little things
-
-* always looking for new music, playlists, and tiny details in production
-* from the NYC area, so ask me for matcha recs
-* happiest when elegant math turns into useful software
-
 <br/>
 
 <div align="center">
