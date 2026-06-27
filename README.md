@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1200&color=B48EAD&center=true&vCenter=true&width=500&lines=hi%2C+i'm+prisha+%E2%9C%A7;cs+%2B+operations+research+%40+cornell;building+around+agents%2C+sql%2C+and+vision" alt="typing intro" />
